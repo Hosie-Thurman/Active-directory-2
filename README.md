@@ -1,18 +1,22 @@
-![Image](https://github.com/user-attachments/assets/5cde0913-0053-42bf-8927-9adcce00239b)
+!<p align="center">
+<img src="https://i.imgur.com/pU5A58S.png" height="40%" width="70%"alt="Microsoft Active Directory Logo"/>
+</p>
 
-<h1>osTicket - Prerequisites and Installation</h1>
-This step by step tutorial will guide you through the prerequisites and installation of osTicket.<br />
-
+<h1>Configuring Active Directory (On-Premises) Within Azure</h1>
+This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
 
 <h2>Environments and Technologies Used</h2>
 
-- Remote Desktop(Windows or MacOS)
-- Internet Information Services (IIS)
+- Microsoft Azure (Virtual Machines/Compute)
+- Remote Desktop
+- Active Directory Domain Services
+- PowerShell
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
 - Windows Server 2022
+- Windows 10 (21H2)
+
 
 
 
